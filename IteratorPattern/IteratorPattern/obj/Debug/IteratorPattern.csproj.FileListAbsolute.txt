@@ -1,0 +1,9 @@
+C:\Users\jmart\Desktop\School\Data Structures 1\Projects\IteratorPattern\IteratorPattern\bin\Debug\IteratorPattern.exe.config
+C:\Users\jmart\Desktop\School\Data Structures 1\Projects\IteratorPattern\IteratorPattern\bin\Debug\IteratorPattern.exe
+C:\Users\jmart\Desktop\School\Data Structures 1\Projects\IteratorPattern\IteratorPattern\bin\Debug\IteratorPattern.pdb
+C:\Users\jmart\Desktop\School\Data Structures 1\Projects\IteratorPattern\IteratorPattern\obj\Debug\IteratorPattern.csprojResolveAssemblyReference.cache
+C:\Users\jmart\Desktop\School\Data Structures 1\Projects\IteratorPattern\IteratorPattern\obj\Debug\IteratorPattern.Form1.resources
+C:\Users\jmart\Desktop\School\Data Structures 1\Projects\IteratorPattern\IteratorPattern\obj\Debug\IteratorPattern.Properties.Resources.resources
+C:\Users\jmart\Desktop\School\Data Structures 1\Projects\IteratorPattern\IteratorPattern\obj\Debug\IteratorPattern.csproj.GenerateResource.Cache
+C:\Users\jmart\Desktop\School\Data Structures 1\Projects\IteratorPattern\IteratorPattern\obj\Debug\IteratorPattern.exe
+C:\Users\jmart\Desktop\School\Data Structures 1\Projects\IteratorPattern\IteratorPattern\obj\Debug\IteratorPattern.pdb
