@@ -16,6 +16,8 @@ namespace Facade
         Rogue rg;
         White_Mage wm;
         Black_Mage bm;
+        ConcreteParty concreteParty;
+        Factory factory;
         
         public Form1()
         {
@@ -24,6 +26,8 @@ namespace Facade
             rg = new Rogue();
             wm = new White_Mage();
             bm = new Black_Mage();
+            concreteParty = new ConcreteParty();
+            factory = new ConcreteFactory();
             war.WarriorStateChanged += new WarriorStateChangedEventHandler(war_WarriorStateChanged);
             rg.RogueStateChanged += new RogueStateChangedEventHandler(rg_RogueStateChanged);
             wm.WhiteMageStateChanged += new WhiteMageStateChangedEventHandler(wm_WhiteMageStateChanged);
@@ -64,6 +68,7 @@ namespace Facade
             rg.m_RogueState = Rogue.RogueState.Attack;
             wm.m_WhiteMageState = White_Mage.WhiteMageState.White_Magic;
             bm.m_BlackMageState = Black_Mage.BlackMageState.Black_Magic;
+            factory.createParty(war.m_WarriorState, rg.m_RogueState, wm.m_WhiteMageState, bm.m_BlackMageState);
         }
 
         private void m_btnDefense_Click(object sender, EventArgs e)
@@ -72,6 +77,7 @@ namespace Facade
             rg.m_RogueState = Rogue.RogueState.Defend;
             wm.m_WhiteMageState = White_Mage.WhiteMageState.Heal;
             bm.m_BlackMageState = Black_Mage.BlackMageState.Defend;
+            factory.createParty(war.m_WarriorState, rg.m_RogueState, wm.m_WhiteMageState, bm.m_BlackMageState);
         }
 
         private void m_btnUtility_Click(object sender, EventArgs e)
@@ -80,6 +86,7 @@ namespace Facade
             rg.m_RogueState = Rogue.RogueState.Steal;
             wm.m_WhiteMageState = White_Mage.WhiteMageState.Buff;
             bm.m_BlackMageState = Black_Mage.BlackMageState.Debuff;
+            factory.createParty(war.m_WarriorState, rg.m_RogueState, wm.m_WhiteMageState, bm.m_BlackMageState);
         }
 
         private void m_btnSurvive_Click(object sender, EventArgs e)
@@ -88,6 +95,7 @@ namespace Facade
             rg.m_RogueState = Rogue.RogueState.Escape;
             wm.m_WhiteMageState = White_Mage.WhiteMageState.Heal;
             bm.m_BlackMageState = Black_Mage.BlackMageState.Escape;
+            factory.createParty(war.m_WarriorState, rg.m_RogueState, wm.m_WhiteMageState, bm.m_BlackMageState);
         }
     }
 }

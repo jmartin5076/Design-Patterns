@@ -7,3 +7,13 @@ C:\Users\jmart\Desktop\School\Data Structures 1\Projects\Facade\Facade\bin\Debug
 C:\Users\jmart\Desktop\School\Data Structures 1\Projects\Facade\Facade\bin\Debug\Facade.pdb
 C:\Users\jmart\Desktop\School\Data Structures 1\Projects\Facade\Facade\obj\Debug\Facade.exe
 C:\Users\jmart\Desktop\School\Data Structures 1\Projects\Facade\Facade\obj\Debug\Facade.pdb
+C:\Users\jmart\Desktop\School\Design Patterns\Projects\Facade\Facade\bin\Debug\Facade.exe.config
+C:\Users\jmart\Desktop\School\Design Patterns\Projects\Facade\Facade\obj\Debug\Facade.exe
+C:\Users\jmart\Desktop\School\Design Patterns\Projects\Facade\Facade\obj\Debug\Facade.pdb
+C:\Users\jmart\Desktop\School\Design Patterns\Projects\Facade\Facade\obj\Debug\Facade Pattern.csprojResolveAssemblyReference.cache
+C:\Users\jmart\Desktop\School\Design Patterns\Projects\Facade\Facade\obj\Debug\Facade.Form1.resources
+C:\Users\jmart\Desktop\School\Design Patterns\Projects\Facade\Facade\obj\Debug\Facade.Party.resources
+C:\Users\jmart\Desktop\School\Design Patterns\Projects\Facade\Facade\obj\Debug\Facade.Properties.Resources.resources
+C:\Users\jmart\Desktop\School\Design Patterns\Projects\Facade\Facade\obj\Debug\Facade Pattern.csproj.GenerateResource.Cache
+C:\Users\jmart\Desktop\School\Design Patterns\Projects\Facade\Facade\bin\Debug\Facade.exe
+C:\Users\jmart\Desktop\School\Design Patterns\Projects\Facade\Facade\bin\Debug\Facade.pdb
