@@ -10,7 +10,7 @@ using System.Windows.Forms;
 
 namespace Facade
 {
-    public partial class Party : Form
+    public partial class Party : Form //this is the Product class
     {
         public Party()
         {

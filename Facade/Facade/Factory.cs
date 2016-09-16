@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Facade
 {
-    public abstract class Factory
+    public abstract class Factory //this is the Factory class
     { 
         public void createParty(Warrior.WarriorState m_WarriorState, Rogue.RogueState m_RogueState, White_Mage.WhiteMageState m_WhiteMageState, Black_Mage.BlackMageState m_BlackMageState)
         {

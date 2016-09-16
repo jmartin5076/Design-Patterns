@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Facade
 {
-    public class ConcreteFactory : Factory
+    public class ConcreteFactory : Factory //this is the ConcreteFactory class
     {
         protected override Party factoryMethod(Warrior.WarriorState m_WarriorState, Rogue.RogueState m_RogueState, White_Mage.WhiteMageState m_WhiteMageState, Black_Mage.BlackMageState m_BlackMageState)
         {

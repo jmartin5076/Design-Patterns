@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Facade
 {
-     public class ConcreteParty : Party
+     public class ConcreteParty : Party //this is the ConcreteProduct class
     {
         public Party party;
 
