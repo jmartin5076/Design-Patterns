@@ -53,17 +53,32 @@ namespace AbstractFactory
             }
         }
 
-        public override void createSedan()
+        public override ChevyCamaro createCamaro(ChevyFactory.BodyType m_BodyPart, ChevyFactory.Engine m_EnginePart, ChevyFactory.Tires m_TirePart, ChevyFactory.Brand m_BrandType)
+        {
+            return new ChevyCamaro(m_BodyPart, m_EnginePart, m_TirePart, m_BrandType);
+        }
+
+        public override ChevyMalibu createMalibu(ChevyFactory.BodyType m_BodyPart, ChevyFactory.Engine m_EnginePart, ChevyFactory.Tires m_TirePart, ChevyFactory.Brand m_BrandType)
+        {
+            return new ChevyMalibu(m_BodyPart, m_EnginePart, m_TirePart, m_BrandType);
+        }
+
+        public override ChevySilverado createSilverado(ChevyFactory.BodyType m_BodyPart, ChevyFactory.Engine m_EnginePart, ChevyFactory.Tires m_TirePart, ChevyFactory.Brand m_BrandType)
+        {
+            return new ChevySilverado(m_BodyPart, m_EnginePart, m_TirePart, m_BrandType);
+        }
+
+        public override FordMustang createMustang(FordFactory.BodyType m_BodyPart, FordFactory.Engine m_EnginePart, FordFactory.Tires m_TirePart, FordFactory.Brand m_BrandType)
         {
             throw new NotImplementedException();
         }
 
-        public override void createSportsCar()
+        public override FordFusion createFusion(FordFactory.BodyType m_BodyPart, FordFactory.Engine m_EnginePart, FordFactory.Tires m_TirePart, FordFactory.Brand m_BrandType)
         {
             throw new NotImplementedException();
         }
 
-        public override void createTruck()
+        public override FordF150 createF150(FordFactory.BodyType m_BodyPart, FordFactory.Engine m_EnginePart, FordFactory.Tires m_TirePart, FordFactory.Brand m_BrandType)
         {
             throw new NotImplementedException();
         }
