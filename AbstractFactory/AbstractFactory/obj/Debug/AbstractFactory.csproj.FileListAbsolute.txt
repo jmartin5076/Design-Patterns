@@ -1,0 +1,10 @@
+C:\Users\jmart\Desktop\School\Data Structures 1\Projects\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+C:\Users\jmart\Desktop\School\Data Structures 1\Projects\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.exe
+C:\Users\jmart\Desktop\School\Data Structures 1\Projects\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.pdb
+C:\Users\jmart\Desktop\School\Data Structures 1\Projects\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.csprojResolveAssemblyReference.cache
+C:\Users\jmart\Desktop\School\Data Structures 1\Projects\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.Form1.resources
+C:\Users\jmart\Desktop\School\Data Structures 1\Projects\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.Form2.resources
+C:\Users\jmart\Desktop\School\Data Structures 1\Projects\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.Properties.Resources.resources
+C:\Users\jmart\Desktop\School\Data Structures 1\Projects\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.csproj.GenerateResource.Cache
+C:\Users\jmart\Desktop\School\Data Structures 1\Projects\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.exe
+C:\Users\jmart\Desktop\School\Data Structures 1\Projects\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.pdb
