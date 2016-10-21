@@ -1,0 +1,10 @@
+C:\Users\jmart\Desktop\School\Data Structures 1\Projects\Strategy Pattern\Strategy Pattern\bin\Debug\Strategy Pattern.exe.config
+C:\Users\jmart\Desktop\School\Data Structures 1\Projects\Strategy Pattern\Strategy Pattern\bin\Debug\Strategy Pattern.exe
+C:\Users\jmart\Desktop\School\Data Structures 1\Projects\Strategy Pattern\Strategy Pattern\bin\Debug\Strategy Pattern.pdb
+C:\Users\jmart\Desktop\School\Data Structures 1\Projects\Strategy Pattern\Strategy Pattern\obj\Debug\Strategy Pattern.csprojResolveAssemblyReference.cache
+C:\Users\jmart\Desktop\School\Data Structures 1\Projects\Strategy Pattern\Strategy Pattern\obj\Debug\Strategy_Pattern.Form1.resources
+C:\Users\jmart\Desktop\School\Data Structures 1\Projects\Strategy Pattern\Strategy Pattern\obj\Debug\Strategy_Pattern.Properties.Resources.resources
+C:\Users\jmart\Desktop\School\Data Structures 1\Projects\Strategy Pattern\Strategy Pattern\obj\Debug\Strategy Pattern.csproj.GenerateResource.Cache
+C:\Users\jmart\Desktop\School\Data Structures 1\Projects\Strategy Pattern\Strategy Pattern\obj\Debug\Strategy Pattern.exe
+C:\Users\jmart\Desktop\School\Data Structures 1\Projects\Strategy Pattern\Strategy Pattern\obj\Debug\Strategy Pattern.pdb
+C:\Users\jmart\Desktop\School\Data Structures 1\Projects\Strategy Pattern\Strategy Pattern\obj\Debug\Strategy_Pattern.Form2.resources
