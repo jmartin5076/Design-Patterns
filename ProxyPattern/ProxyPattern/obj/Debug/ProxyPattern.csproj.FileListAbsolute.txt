@@ -1,0 +1,10 @@
+C:\Users\jmart\Desktop\School\Data Structures 1\Projects\ProxyPattern\ProxyPattern\bin\Debug\ProxyPattern.exe.config
+C:\Users\jmart\Desktop\School\Data Structures 1\Projects\ProxyPattern\ProxyPattern\bin\Debug\ProxyPattern.exe
+C:\Users\jmart\Desktop\School\Data Structures 1\Projects\ProxyPattern\ProxyPattern\bin\Debug\ProxyPattern.pdb
+C:\Users\jmart\Desktop\School\Data Structures 1\Projects\ProxyPattern\ProxyPattern\obj\Debug\ProxyPattern.csprojResolveAssemblyReference.cache
+C:\Users\jmart\Desktop\School\Data Structures 1\Projects\ProxyPattern\ProxyPattern\obj\Debug\ProxyPattern.Form1.resources
+C:\Users\jmart\Desktop\School\Data Structures 1\Projects\ProxyPattern\ProxyPattern\obj\Debug\ProxyPattern.Form2.resources
+C:\Users\jmart\Desktop\School\Data Structures 1\Projects\ProxyPattern\ProxyPattern\obj\Debug\ProxyPattern.Properties.Resources.resources
+C:\Users\jmart\Desktop\School\Data Structures 1\Projects\ProxyPattern\ProxyPattern\obj\Debug\ProxyPattern.csproj.GenerateResource.Cache
+C:\Users\jmart\Desktop\School\Data Structures 1\Projects\ProxyPattern\ProxyPattern\obj\Debug\ProxyPattern.exe
+C:\Users\jmart\Desktop\School\Data Structures 1\Projects\ProxyPattern\ProxyPattern\obj\Debug\ProxyPattern.pdb
