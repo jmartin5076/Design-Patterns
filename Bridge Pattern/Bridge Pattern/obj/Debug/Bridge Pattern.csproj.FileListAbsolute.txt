@@ -1,0 +1,9 @@
+C:\Users\jmart\Desktop\School\Design Patterns\Projects\Bridge Pattern\Bridge Pattern\bin\Debug\Bridge Pattern.exe.config
+C:\Users\jmart\Desktop\School\Design Patterns\Projects\Bridge Pattern\Bridge Pattern\bin\Debug\Bridge Pattern.exe
+C:\Users\jmart\Desktop\School\Design Patterns\Projects\Bridge Pattern\Bridge Pattern\bin\Debug\Bridge Pattern.pdb
+C:\Users\jmart\Desktop\School\Design Patterns\Projects\Bridge Pattern\Bridge Pattern\obj\Debug\Bridge Pattern.csprojResolveAssemblyReference.cache
+C:\Users\jmart\Desktop\School\Design Patterns\Projects\Bridge Pattern\Bridge Pattern\obj\Debug\Bridge_Pattern.Form1.resources
+C:\Users\jmart\Desktop\School\Design Patterns\Projects\Bridge Pattern\Bridge Pattern\obj\Debug\Bridge_Pattern.Properties.Resources.resources
+C:\Users\jmart\Desktop\School\Design Patterns\Projects\Bridge Pattern\Bridge Pattern\obj\Debug\Bridge Pattern.csproj.GenerateResource.Cache
+C:\Users\jmart\Desktop\School\Design Patterns\Projects\Bridge Pattern\Bridge Pattern\obj\Debug\Bridge Pattern.exe
+C:\Users\jmart\Desktop\School\Design Patterns\Projects\Bridge Pattern\Bridge Pattern\obj\Debug\Bridge Pattern.pdb
